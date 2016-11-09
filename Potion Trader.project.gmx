@@ -6,61 +6,67 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Tent_Outside_Spr</sprite>
-    <sprite>sprites\Save_pile</sprite>
-    <sprite>sprites\sprite2</sprite>
-    <sprite>sprites\Caravan_Outside_Spr</sprite>
-    <sprite>sprites\sprite5</sprite>
+    <sprite>sprites\spr_healthPotion</sprite>
     <sprite>sprites\Tent_Outline</sprite>
-    <sprite>sprites\sprite6</sprite>
-    <sprite>sprites\sprite7</sprite>
-    <sprite>sprites\sprite8</sprite>
-    <sprite>sprites\sprite9</sprite>
-    <sprite>sprites\Player_Placeholder_Spr</sprite>
-    <sprite>sprites\Enemy_Placeholder_Spr</sprite>
-    <sprite>sprites\Buyer_Placeholder_Spr</sprite>
-    <sprite>sprites\Time_Placeholder_Spr</sprite>
-    <sprite>sprites\Environment_Placeholder_Spr</sprite>
-    <sprite>sprites\sprite13</sprite>
-    <sprite>sprites\sprite15</sprite>
-    <sprite>sprites\sprite14</sprite>
-    <sprite>sprites\sprite16</sprite>
-    <sprite>sprites\sprite17</sprite>
-    <sprite>sprites\sprite18</sprite>
-    <sprite>sprites\sprite19</sprite>
-    <sprite>sprites\sprite20</sprite>
-    <sprite>sprites\sprite21</sprite>
+    <sprite>sprites\smallTent_Outline</sprite>
+    <sprite>sprites\spr_Player</sprite>
+    <sprite>sprites\spr_Enemy</sprite>
+    <sprite>sprites\spr_Buyer</sprite>
+    <sprite>sprites\spr_Time</sprite>
+    <sprite>sprites\spr_Environment</sprite>
+    <sprite>sprites\spr_coloredSmallTent</sprite>
+    <sprite>sprites\spr_jarOfire</sprite>
+    <sprite>sprites\spr_earthenPotion</sprite>
+    <sprite>sprites\spr_mysticPotion</sprite>
+    <sprite>sprites\spr_blankPotion</sprite>
     <sprite>sprites\spr_testButton</sprite>
-    <sprite>sprites\sprite25</sprite>
+    <sprite>sprites\spr_utility</sprite>
     <sprite>sprites\spr_testButton2</sprite>
-    <sprite>sprites\itemButton</sprite>
+    <sprite>sprites\spr_testButton3</sprite>
+    <sprite>sprites\spr_testButton4</sprite>
+    <sprite>sprites\spr_testButton5</sprite>
+    <sprite>sprites\spr_testButton6</sprite>
+    <sprite>sprites\spr_itemButton</sprite>
+    <sprite>sprites\spr_lantern</sprite>
+    <sprite>sprites\spr_pricedownButton</sprite>
+    <sprite>sprites\spr_priceupButton</sprite>
+    <sprite>sprites\spr_leftitemButton</sprite>
+    <sprite>sprites\spr_rightitemButton</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\Buyiers_Choice.gml</script>
-    <script>scripts\Player_Selling.gml</script>
-    <script>scripts\Ai_Selling.gml</script>
-    <script>scripts\scr_inventory.gml</script>
     <script>scripts\scr_environmentLoader.gml</script>
     <script>scripts\scr_timeLaspe.gml</script>
     <script>scripts\scr_brew.gml</script>
     <script>scripts\scr_gather.gml</script>
     <script>scripts\NotesToSelf.gml</script>
+    <script>scripts\scr_globalValues.gml</script>
+    <script>scripts\scr_potionIndex.gml</script>
+    <script>scripts\Test.gml</script>
+    <script>scripts\scr_priceIndex.gml</script>
+    <script>scripts\scr_price.gml</script>
   </scripts>
   <objects name="objects">
-    <object>objects\Tent_Outside_Obj</object>
-    <object>objects\Caravan_Outside_Obj</object>
-    <object>objects\Player_Terminal</object>
-    <object>objects\Enemy_Terminal</object>
-    <object>objects\Buyer_Terminal</object>
-    <object>objects\Time_Terminal</object>
-    <object>objects\Environment_Terminal</object>
-    <object>objects\testButton</object>
-    <object>objects\testButton2</object>
+    <object>objects\obj_Player</object>
+    <object>objects\obj_Enemy</object>
+    <object>objects\obj_Buyer</object>
+    <object>objects\obj_Time</object>
+    <object>objects\obj_Environment</object>
+    <object>objects\obj_gatherButton</object>
+    <object>objects\obj_stopgatherButton</object>
+    <object>objects\obj_stopbrewingButton</object>
+    <object>objects\obj_brewButton</object>
     <object>objects\obj_testUtility</object>
     <object>objects\obj_itemButton</object>
+    <object>objects\obj_otemButton</object>
     <object>objects\obj_List_of_Roboto</object>
+    <object>objects\obj_priceButton</object>
+    <object>objects\obj_stoppriceButton</object>
+    <object>objects\obj_priceupButton</object>
+    <object>objects\obj_pricedownButton</object>
+    <object>objects\obj_leftitemButton</object>
+    <object>objects\obj_rightitemButton</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Room_One</room>
