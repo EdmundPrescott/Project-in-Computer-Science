@@ -46,6 +46,7 @@
     <script>scripts\Test.gml</script>
     <script>scripts\scr_priceIndex.gml</script>
     <script>scripts\scr_price.gml</script>
+    <script>scripts\scr_brew2.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_Player</object>
@@ -57,6 +58,7 @@
     <object>objects\obj_stopgatherButton</object>
     <object>objects\obj_stopbrewingButton</object>
     <object>objects\obj_brewButton</object>
+    <object>objects\obj_pauseButton</object>
     <object>objects\obj_testUtility</object>
     <object>objects\obj_itemButton</object>
     <object>objects\obj_otemButton</object>
