@@ -1,14 +1,10 @@
 # Project-in-Computer-Science
 It's here!
-Goal 1: Create a gathering function
-After clicking a button called gather create x boxes when x is the possible items in the environment
-Clicking boxes will select those item(s) for gathering
-Clicking a button called stop gather then add those item(s) to the inventory and destorys the boxes
-Goal 2: MVP
-The game must be at bare minimum a game which would contain
-User input 
-A fail state
-A win state
+Goal 1: Create in game time
+Goal 2: Create a gathering function
+Goal 3: Create a brewing function
+Goal 4: Create a pricing function
+Goal 5: Create a pause button
 
 
 
