@@ -5,7 +5,7 @@ Goal 2: Create a gathering function
 Goal 3: Create a brewing function
 Goal 4: Create a pricing function
 Goal 5: Create a pause button
-
+Goal 6: Refine previous code and fix any bugs
 
 
 My Game will be about a Traveling Potion salesman
