@@ -44,9 +44,8 @@
     <script>scripts\scr_globalValues.gml</script>
     <script>scripts\scr_potionIndex.gml</script>
     <script>scripts\Test.gml</script>
-    <script>scripts\scr_priceIndex.gml</script>
     <script>scripts\scr_price.gml</script>
-    <script>scripts\scr_brew2.gml</script>
+    <script>scripts\scr_buyingAI.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\obj_Player</object>
