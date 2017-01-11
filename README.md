@@ -7,6 +7,7 @@ Goal 4: Create a pricing function
 Goal 5: Create a pause button
 Goal 6: Refine previous code and fix any bugs
 Goal 7: Create buying AI, possible challenges: player AI interaction, AI timing, data usage?
+Goal 8: Adding in potion proporties so that potions hae diferences other than their name
 
 
 My Game will be about a Traveling Potion salesman
