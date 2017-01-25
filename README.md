@@ -9,7 +9,7 @@ Goal 6: Refine previous code and fix any bugs
 Goal 7: Create buying AI, possible challenges: player AI interaction, AI timing, data usage?
 Goal 8: Adding in potion proporties so that potions hae diferences other than their name, I think this might be a problem
 but I'm very sure I can solve it with a big array holding data for all the potions
-Goal 9: I'm want to redo the buttons sylstically so there aren't so many buttons on screen. I think I'll doing this by making the functions one button press functions or making the clicking of the same button turn the function off.
+Goal 9: I'm want to redo the buttons sylstically so there aren't so many buttons on screen. I think I'll doing this by making the functions one button press functions or making the clicking of the same button turn the function off. I also wanna change how the brewing index works but that's a side thing because I think it'll be pretty easy. The only problems I forsee are trying to make one preses work because they might keep going, as for the potion index rework I'm pretty sure I can make it work by sorting the brewing ingredients and then checking if it lines up with a list that corresponds with a potion.
 
 
 My Game will be about a Traveling Potion salesman
